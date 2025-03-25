@@ -1,0 +1,6 @@
+langchain-pinecone
+shell
+langchain_google_genai 
+langchain langchain_core
+python-dotenv
+
